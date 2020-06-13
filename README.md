@@ -8,5 +8,5 @@ A face detection app that will analyze human face and will tell details about th
      * RightEye open probabilty
      * HeadRightSide turn probability
      * HeadLeftSide turn probability etc.
-* In build this app Firebase MLKit library is used.
+* To build this app Firebase MLKit library is used.
 
