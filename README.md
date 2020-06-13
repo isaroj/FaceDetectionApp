@@ -5,7 +5,7 @@ A face detection app that will analyze human face and will tell details about th
 * If it finds any human face then it will analyze the face and will give details about the face like
      * Smile probability 
      * LeftEye open probability
-     * RightEye open probabilty
+     * RightEye open probability
      * HeadRightSide turn probability
      * HeadLeftSide turn probability etc.
 * To build this app Firebase MLKit library is used.
